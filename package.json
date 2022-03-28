@@ -1,0 +1,25 @@
+{
+  "name": "fs-form-group",
+  "version": "1.0.0",
+  "description": "The FSFormGroup library makes it easy to create DOM Elements with linked methods to update and save states to a JSON file instance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatherbrennan/fs-form-group.git"
+  },
+  "keywords": [
+    "nodejs",
+    "electron",
+    "fs",
+    "vanilla-javascript"
+  ],
+  "author": "fatherbrennan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fatherbrennan/fs-form-group/issues"
+  },
+  "homepage": "https://github.com/fatherbrennan/fs-form-group#readme"
+}
