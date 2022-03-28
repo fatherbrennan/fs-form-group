@@ -596,7 +596,7 @@ app.on('window-all-closed', () => {
 <html lang="en">
     <head>
         <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-        <link rel="stylesheet" href="src/fs-fg.css" />
+        <link rel="stylesheet" href="css/app.css" />
         <meta charset="UTF-8" />
         <meta name="author" content="fatherbrennan" />
         <title>FS Module Form Group</title>
@@ -924,7 +924,7 @@ input::-webkit-inner-spin-button {
 }
 ```
 
-#### **Public/src/Preferences.preferences.json**
+#### **Public/src/Preferences/preferences.json**
 
 ```json
 { "group0": [{ "value": 1 }], "group1": [{ "value": "hello" }, { "value": "world!" }] }
